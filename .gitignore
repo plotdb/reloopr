@@ -1,0 +1,6 @@
+*.log
+.*.swp
+.swp
+.DS_Store
+node_modules
+secret.*
